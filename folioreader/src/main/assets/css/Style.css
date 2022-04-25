@@ -263,33 +263,33 @@ html.nightMode .highlight_underline {border-bottom: 2px solid rgba(240, 40, 20, 
  }
 
 html.textSizeOne { font-size: 13px !important; }
-html.textSizeTwo { font-size: 15px !important; }
-html.textSizeThree { font-size: 17px !important; }
-html.textSizeFour { font-size: 19px !important; }
-html.textSizeFive { font-size: 21px !important; }
+html.textSizeTwo { font-size: 18px !important; }
+html.textSizeThree { font-size: 24px !important; }
+html.textSizeFour { font-size: 30px !important; }
+html.textSizeFive { font-size: 36px !important; }
 
 h1 {
-    font-size: 2rem;
+    font-size: 3.5rem;
     line-height: 1.2;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     line-height: 1.2;
 }
 h3 {
-    font-size: 1.17rem;
+    font-size: 2.5rem;
     line-height: 1.2;
 }
 h4 {
-    font-size: 1rem;
+    font-size: 2rem;
     line-height: 1.2;
 }
 h5 {
-    font-size: 0.83rem;
+    font-size: 1.5rem;
     line-height: 1.2;
 }
 h6 {
-    font-size: 0.67rem;
+    font-size: 1rem;
     line-height: 1.2;
 }
 body {
